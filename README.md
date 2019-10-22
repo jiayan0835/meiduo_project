@@ -1,0 +1,2 @@
+# meiduo_project
+django项目，在github上创建meiduo_project项目，克隆到本地并创建分支
